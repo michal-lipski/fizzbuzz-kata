@@ -8,6 +8,6 @@ public class FizzBuzzTest {
 
     @Test
     public void startHere() {
-        assertThat(4).isEqualTo(5);
+        assertThat(4).isEqualTo(4);
     }
 }
